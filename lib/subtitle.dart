@@ -8,7 +8,7 @@ class Subtitle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      'Hellow Word',
+      'Flutter Developer',
       style: TextStyle(
         color: Colors.grey,
         fontWeight: FontWeight.bold,
